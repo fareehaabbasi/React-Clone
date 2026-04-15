@@ -7,7 +7,7 @@ import { FaGithub } from "react-icons/fa6";
 const Navbar = () => {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-gray-200 bg-white">
-      <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3 md:px-8">
+      <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3 ">
         {/* Left group: version + search */}
         <div className="flex flex-wrap items-center gap-1 sm:gap-3">
           <div className="flex items-center gap-1">
