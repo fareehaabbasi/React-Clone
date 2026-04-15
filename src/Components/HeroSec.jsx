@@ -12,7 +12,7 @@ const HeroSec = () => {
             viewBox="-10.5 -9.45 21 18.9"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
-            className="uwu-hidden mt-4 mb-3 text-brand w-32 lg:w-36 self-center text-sm me-0 flex origin-center transition-all ease-in-out text-cyan-500"
+            className="uwu-hidden mt-4 mb-3 text-brand w-32 lg:w-36 self-center text-sm me-0 flex origin-center transition-all ease-in-out text-cyan-700"
           >
             <circle cx="0" cy="0" r="2" fill="currentColor"></circle>
             <g stroke="currentColor" strokeWidth="1" fill="none">
@@ -33,7 +33,7 @@ const HeroSec = () => {
 
         {/* Buttons - centered row */}
         <div className="flex justify-center gap-4 mb-9">
-          <button className=" bg-cyan-500 rounded-full px-8 py-3 text-gray-100 font-medium text-lg">
+          <button className=" bg-cyan-700 rounded-full px-8 py-3 text-gray-100 font-medium text-lg">
             Learn React
           </button>
           <button className="border border-gray-500 rounded-full px-8 py-3 font-medium text-lg ">
