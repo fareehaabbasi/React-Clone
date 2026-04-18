@@ -14,11 +14,13 @@ const Sec1 = () => {
           </p>
         </div>
       </div>
+      
       <div>
         <span className="w-full h-full flex items-center justify-center py-10 px-16">
           <img src="src/assets/sec-1-img.png" alt="img" />
         </span>
       </div>
+
       <div>
         <p>
           My video Video description Whether you work on your own or with
