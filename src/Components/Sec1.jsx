@@ -22,10 +22,10 @@ const Sec1 = () => {
 
       <div>
         <p>
-          "My video Video description Whether you work on your own or with
+          My video Video description Whether you work on your own or with
           thousands of other developers, using React feels the same. It is
           designed to let you seamlessly combine components written by
-          independent people, teams, and organizations."
+          independent people, teams, and organizations.
         </p>
       </div>
     </div>
