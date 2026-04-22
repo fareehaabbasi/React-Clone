@@ -27,6 +27,8 @@ const Sec1 = () => {
           designed to let you seamlessly combine components written by
           independent people, teams, and organizations.
         </p>
+
+        
       </div>
     </div>
   );
